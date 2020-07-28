@@ -1,2 +1,2 @@
-# Snake-And-Ladder-Using-Javascript
+# Snake-And-Ladder
 SNAKE AND LADDER
