@@ -39,6 +39,7 @@ function draw(){
 function mousePressed(){
     diceRoll = Math.round(map( random(),0,1,1,6) )
     player.takeStep(diceRoll)
+    console.log(diceRoll);
 }
 
 class Grid{
